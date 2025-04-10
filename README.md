@@ -1,2 +1,2 @@
-# cloud-gpx-mapping
-Mapping a route with GPS points from a GPX file (+ Cloud Storage)
+# cloud-route-mapping
+Mapping a route with GPS points (+ Cloud Storage)
